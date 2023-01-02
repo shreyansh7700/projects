@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.m1-w{
+    background: url(../image/img1.jpg);
+}
+.m1{
+    background-color: rgba(0,0,0,0.5);
+}
+.s1{
+    
+    padding: 20px;
+}
+.logo p{
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(211, 4, 4);
+    font-family: serif;
+    margin-left: 20px;
+}
+
+.sinin{
+    width: 30%;
+    margin: 0px auto;
+    background: rgba(0,0,0,0.9);
+
+}
